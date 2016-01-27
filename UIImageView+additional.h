@@ -11,3 +11,4 @@
 @interface UIImageView (additional)
 - (void)setClickEnlarge:(BOOL)bl;
 @end
+  
