@@ -11,3 +11,4 @@
 @interface ZJNavigationController : UINavigationController
 -(void)zjSetMySpecailStop:(id)thevc;
 @end
+ 
