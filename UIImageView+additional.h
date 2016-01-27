@@ -12,3 +12,4 @@
 - (void)setClickEnlarge:(BOOL)bl;
 @end
     
+ 
