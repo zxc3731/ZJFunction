@@ -17,3 +17,4 @@ typedef NS_ENUM(NSInteger, ZJViewBorder) {
 @property (nonatomic, assign) ZJViewBorder borderWhich;
 - (void)zj_ViewWithNumberPoint:(NSInteger)num;
 @end
+ 
