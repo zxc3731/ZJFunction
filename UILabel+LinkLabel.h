@@ -33,3 +33,4 @@ typedef void(^voidBlock) (void);
 - (void)setTextRMB:(NSString *)text;
 
 @end
+ 
