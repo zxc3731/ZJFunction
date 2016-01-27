@@ -4,8 +4,8 @@
 * 1 ZJNavigationController实现手势滑动返回 
 * 2 ZJTabBarController实现了在tabBar的显示和隐藏（tabBar.viewControllers显示，其他隐藏）
 
-![](https://raw.githubusercontent.com/zxc3731/ZJPublic/master/tem22.gif) 
-
+![](https://raw.githubusercontent.com/zxc3731/ZJPublic/master/tem22.gif)  
+ps:实现很简单，就几句代码，许多项目都用上这两个功能，到现在未发现比较完善，未发现bug
 ### UILabel+LinkLabel 
 实现点击UILabel，block回调，类似html的
 ```html
