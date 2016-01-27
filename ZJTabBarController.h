@@ -12,3 +12,4 @@
 - (void)zj_TBcallTheTabbar:(id)willcurVC;
 - (void)zj_setTabbarHidden:(BOOL)isH;
 @end
+ 
