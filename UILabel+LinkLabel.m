@@ -43,3 +43,4 @@ static char labelTapKey;
     self.text = [NSString stringWithFormat:@"￥%@", text];
 }
 @end
+ 
